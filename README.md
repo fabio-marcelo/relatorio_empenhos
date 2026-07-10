@@ -6,7 +6,7 @@ O sistema foi projetado para ser autossuficiente: ele instala automaticamente as
 
 ## Pré-requisitos
 
-1. **R e RStudio**: Certifique-se de ter o [R](https://cran.r-project.org/) e o [RStudio](https://posit.co/download/rstudio-desktop/) instalados na sua máquina.
+1. **R e RStudio**: Certifique-se de ter o [R](https://cran.r-project.org/) e o [RStudio](https://posit.co/download/rstudio-desktop/) instalados na sua máquina. Seguir o tutorial [Tutorial](https://github.com/genomicsclass/windows).
 
 2. **Permissões**: O script precisa de permissão de escrita na pasta onde está localizado para criar a subpasta `Relatorios_PDF`.
 
