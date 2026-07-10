@@ -10,6 +10,10 @@ O sistema foi projetado para ser autossuficiente: ele instala automaticamente as
 
 2. **Permissões**: O script precisa de permissão de escrita na pasta onde está localizado para criar a subpasta `Relatorios_PDF`.
 
+3. Faça o download do arquivo **"Executar_Gerador.zip"** deste repositório.
+
+4. Descompacte **"Gerador_Emepnhos.zip"**. Vai criar um diretório chamado **"Gerador_Emepnhos"**. Neste diretório estarão o código R (gerador.R) e o *""Executor_Gerador"**.
+
 ## Como usar
 
 1. **Prepare seus dados**:
