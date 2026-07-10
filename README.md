@@ -12,7 +12,7 @@ O sistema foi projetado para ser autossuficiente: ele instala automaticamente as
 
 3. Faça o download do arquivo **"Executar_Gerador.zip"** deste repositório.
 
-4. Descompacte **"Gerador_Emepnhos.zip"**. Vai criar um diretório chamado **"Gerador_Emepnhos"**. Neste diretório estarão o código R (gerador.R) e o *""Executor_Gerador"**.
+4. Descompacte **"Gerador_Emepnhos.zip"**. Vai criar um diretório chamado **"Gerador_Emepnhos"**. Neste diretório estarão o código R (gerador.R) e o **""Executor_Gerador"**.
 
 ## Como usar
 
