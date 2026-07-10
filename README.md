@@ -18,7 +18,7 @@ O sistema foi projetado para ser autossuficiente: ele instala automaticamente as
 
 2. **Execute o script**:
    * Abra o arquivo `gerador.R` no RStudio.
-   * Clique no botão **"Source"** (ou pressione `Ctrl + Shift + S`).
+   * Duplo clique no arquivo **"Executar_Gerador"**.
 
 3. **Selecione o arquivo**:
    * Uma janela de seleção de arquivos abrirá automaticamente.
