@@ -21,7 +21,7 @@ O sistema foi projetado para ser autossuficiente: ele instala automaticamente as
    * O script espera que os dados comecem na linha 10 (cabeçalho real).
 
 2. **Execute o script**:
-   * Abra o arquivo `gerador.R` no RStudio.
+   * Abra o diretório **"Gerador_Emepnhos"**.
    * Duplo clique no arquivo **"Executar_Gerador"**.
 
 3. **Selecione o arquivo**:
@@ -33,6 +33,7 @@ O sistema foi projetado para ser autossuficiente: ele instala automaticamente as
    * O script verificará as dependências (pacotes e LaTeX).
    * Se o `TinyTeX` não estiver instalado, o script fará o download e a instalação automaticamente (isso pode levar alguns minutos na primeira vez).
    * Os relatórios serão salvos dentro da pasta `Relatorios_PDF` que será criada automaticamente no diretório do projeto.
+   * Ao final da execução, o diretório **"Relatorios_PDF"** contendo os arquivos PDF deverá abrir automaticamente na tela.
 
 ## Estrutura do Script (`gerador.R`)
 
