@@ -21,7 +21,7 @@ O sistema foi projetado para ser autossuficiente: ele instala automaticamente as
    * O script espera que os dados comecem na linha 10 (cabeçalho real).
 
 2. **Execute o script**:
-   * Abra o diretório **"Gerador_Emepnhos"**.
+   * Abra o diretório **"Gerador_Empenhos"**.
    * Duplo clique no arquivo **"Executar_Gerador"**.
 
 3. **Selecione o arquivo**:
